@@ -1,0 +1,32 @@
+.paint {
+    display:flex;
+    justify-content:center;
+}
+img {
+    width:350px;
+    height:250px;
+    border:solid;
+}
+h1 {
+    text-align:center;
+}
+.star {
+    display:flex;
+    justify-content:center;
+}
+h3 {
+    text-align:center;
+    color:white;
+}
+.powerup {
+    display:flex;
+    justify-content:center;
+}
+.instant {
+    display:flex;
+    justify-content:center;
+}
+body {
+    background-image:url("https://assets1.ignimgs.com/2018/12/05/dragonballsuperbroly-1280-1544038171875_1280w.jpg");
+    
+}
